@@ -28,6 +28,8 @@
 					<ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
 						<li><a href="./tema2/practica1/ejercicio1.php" class="link-dark rounded">Ejercicio 1</a></li>
 						<li><a href="./tema2/practica1/ejercicio2.php" class="link-dark rounded">Ejercicio 2</a></li>
+						<li><a href="./tema2/practica1/ejercicio3.php" class="link-dark rounded">Ejercicio 3</a></li>
+						<li><a href="./tema2/practica1/ejercicio4.php" class="link-dark rounded">Ejercicio 4</a></li>
 					</ul>
 					</div>
 				</li>
